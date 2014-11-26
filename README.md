@@ -1,4 +1,4 @@
-Google Cardboard
-================
+Caiyun VR Chatroom
+===================
 
-Please see <http://g.co/cardboard> for more information.
+A VR Chatroom Client.
